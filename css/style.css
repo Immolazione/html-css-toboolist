@@ -53,8 +53,10 @@ h2 {
 }
 
 .triangledown {
-    height: 60%;
+    display: inline-block;
     vertical-align: middle;
+    font-size: 50%;
+    margin: 0 0 4%;
 }
 
 .check {
