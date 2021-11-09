@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+#pulsanti, #menu {
+    margin: 0 auto;
+}
+
 header {
     margin-left: 1.5%;
     margin-top: 0.5%;
@@ -19,4 +23,17 @@ h1 {
     vertical-align: middle;
     font-weight: 900;
     font-size: 50px;
+}
+
+#pulsanti {
+    background-color: blue;
+    width: 60%;
+    height: 400px;
+}
+
+#menu {
+    background-color: red;
+    width: 60%;
+    height: 400px;
+    
 }
