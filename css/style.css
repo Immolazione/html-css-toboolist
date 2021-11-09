@@ -2,4 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    margin-left: 1.5%;
+    margin-top: 0.5%;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 50px;
 }
