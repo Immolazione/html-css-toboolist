@@ -47,8 +47,15 @@ h2, p {
     margin: 2.5% 0;
 }
 
-/* #triangledown {
-} */
+h2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.triangledown {
+    height: 60%;
+    vertical-align: middle;
+}
 
 .check {
     border: 1px solid green;
@@ -72,8 +79,8 @@ h2, p {
 .tag {
     font-size: 0.8rem;
     margin: 0 0.5%;
-    border-radius: 6px;
-    padding: 0.5%;
+    border-radius: 15px;
+    padding: 0.5% 1.6%;
     color: white;
 }
 
